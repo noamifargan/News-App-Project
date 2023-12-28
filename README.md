@@ -12,4 +12,4 @@ news feed application that collects data from multiple news websites was develop
 - <b>The project is written in Android Studio </b> 
 - <b>Java</b>
 
-<h2>Attached to the project is a presentation describing the project itself as well as a zip file containing the entire project.</h2>
+<h2>Attached to the project is a presentation describing the project itself as well as a folder containing the entire project.</h2>
